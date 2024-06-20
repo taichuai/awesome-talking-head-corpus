@@ -11,13 +11,13 @@ Collection of some avatar/talking-head datasets
 5. LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 6. MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
-8. VFHQ [[https://liangbinxie.github.io/projects/vfhq/]. High-definition
-9. GRID [[https://spandh.dcs.shef.ac.uk//avlombard/)]
-10. CREMA-D [[(https://github.com/CheyneyComputerScience/CREMA-D)]
-11. HDTF [link](https://github.com/MRzzm/HDTF)
-12. LRS2 [link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)
-13. LRW [link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)
-14. VOCA [link](https://voca.is.tue.mpg.de/)
+8. VFHQ [[`Download link`](https://liangbinxie.github.io/projects/vfhq/)]. High-definition dataset
+9. GRID [[`Download link`](https://spandh.dcs.shef.ac.uk//avlombard/)]
+10. CREMA-D [[`Download link`](https://github.com/CheyneyComputerScience/CREMA-D)]
+11. HDTF [[`Download link`](https://github.com/MRzzm/HDTF)]
+12. LRS2 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)]
+13. LRW [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)]
+14. VOCA [[`Download link`](https://voca.is.tue.mpg.de/)]
 
 ## Reference:
 https://github.com/harlanhong/awesome-talking-head-generation
