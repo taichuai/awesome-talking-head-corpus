@@ -1,4 +1,4 @@
-# awesome-avatar/talkinghead-corpus
+# awesome-avatar/talking-head-corpus
 Collection of some avatar/talking-head datasets
 
 ## Datasets
