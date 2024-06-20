@@ -10,6 +10,7 @@
 5. LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 6. MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
 7. CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
+8. VFHQ [[https://liangbinxie.github.io/projects/vfhq/].
 
 ## Reference from:
 https://github.com/harlanhong/awesome-talking-head-generation
