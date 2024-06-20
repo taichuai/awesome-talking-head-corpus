@@ -20,10 +20,10 @@ Collection of some avatar/talking-head datasets
 14. VOCA [[`Download link`](https://voca.is.tue.mpg.de/)]
 
 ## Reference:
-https://github.com/harlanhong/awesome-talking-head-generation
-https://github.com/YunjinPark/awesome_talking_face_generation
+https://github.com/harlanhong/awesome-talking-head-generation,
+https://github.com/YunjinPark/awesome_talking_face_generation,
 https://github.com/JosephPai/Awesome-Talking-Face
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=taichuai/awesome-avatar-corpus&type=Date)](https://star-history.com/#taichuai/awesome-avatar-corpus&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=taichuai/awesome-talking-head-corpus&type=Date)](https://star-history.com/#taichuai/awesome-talking-head-corpus&Date)
