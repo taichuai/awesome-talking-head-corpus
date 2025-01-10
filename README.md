@@ -20,6 +20,7 @@ Collection of some avatar/talking-head datasets
 - VOCA [[`Download link`](https://voca.is.tue.mpg.de/)]
 - RAVDESS(The Ryerson Audio-Visual Database of Emotional Speech and Song ) [[`Download link`](https://zenodo.org/records/1188976#.Xpaa3i-caAP)]
 - Vico  [[`Download link`](https://project.mhzhou.com/vico/)]
+- MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
 
 ## Reference:
 - https://github.com/harlanhong/awesome-talking-head-generation, 
