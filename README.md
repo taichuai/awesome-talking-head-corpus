@@ -22,7 +22,7 @@ Collection of some avatar/talking-head datasets
 - Vico  [[`Download link`](https://project.mhzhou.com/vico/)] .Responsive Listening Head Generation
 A Benchmark Dataset and Baseline
 - MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
-
+- Bilibili and douyin video URLs: [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
 ## Reference:
 - https://github.com/harlanhong/awesome-talking-head-generation, 
 - https://github.com/YunjinPark/awesome_talking_face_generation, 
