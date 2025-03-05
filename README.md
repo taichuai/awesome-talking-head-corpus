@@ -39,6 +39,7 @@ A Benchmark Dataset and Baseline
 - https://github.com/JosephPai/Awesome-Talking-Face
 - https://github.com/yt-dlp/yt-dlp/issues/118 // for video download
 - https://github.com/AliaksandrSiarohin/video-preprocessing/tree/master
+- https://github.com/CelebV-HQ/CelebV-HQ/
 
 ## Star History
 
