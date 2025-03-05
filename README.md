@@ -11,7 +11,7 @@ Collection of some avatar/talking-head datasets
 - LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 - MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
 - CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
-- VFHQ [[`Download link`](https://liangbinxie.github.io/projects/vfhq/)]. High-definition dataset
+- VFHQ [[`Download link`](https://liangbinxie.github.io/projects/vfhq/)]. High-definition dataset, including a processing script that extracts high-resolution faces from meta info
 - GRID [[`Download link`](https://spandh.dcs.shef.ac.uk//avlombard/)]
 - CREMA-D [[`Download link`](https://github.com/CheyneyComputerScience/CREMA-D)]
 - HDTF [[`Download link`](https://github.com/MRzzm/HDTF)]
