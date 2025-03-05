@@ -22,7 +22,7 @@ Collection of some avatar/talking-head datasets
 - Vico  [[`Download link`](https://project.mhzhou.com/vico/)] .Responsive Listening Head Generation
 A Benchmark Dataset and Baseline
 - MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
-- Bilibili and douyin video URLs: [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
+- Bilibili and douyin video URLs: [[`Download link`](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)]
 
 ## some ted and youtube videos
 - https://github.com/rojaranijyothi/TED-Talks/blob/main/Data/ted_main.csv
@@ -31,6 +31,8 @@ A Benchmark Dataset and Baseline
 - https://github.com/openzim/ted
 - https://github.com/xingbow/TED_dataset
 - https://github.com/snap-research/articulated-animation/blob/main/data/ted-metadata.csv
+- https://github.com/antgroup/echomimic_v2/tree/main/EMTD_dataset
+- 
 
 
 ## Reference:
@@ -40,6 +42,8 @@ A Benchmark Dataset and Baseline
 - https://github.com/yt-dlp/yt-dlp/issues/118 // for video download
 - https://github.com/AliaksandrSiarohin/video-preprocessing/tree/master
 - https://github.com/CelebV-HQ/CelebV-HQ/
+- https://github.com/antgroup/echomimic_v2/tree/main/EMTD_dataset
+- https://github.com/JOY-MM/JoyGen
 
 ## Star History
 
