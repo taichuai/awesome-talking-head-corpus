@@ -32,7 +32,6 @@ A Benchmark Dataset and Baseline
 - https://github.com/xingbow/TED_dataset
 - https://github.com/snap-research/articulated-animation/blob/main/data/ted-metadata.csv
 - https://github.com/antgroup/echomimic_v2/tree/main/EMTD_dataset
-- 
 
 
 ## Reference:
