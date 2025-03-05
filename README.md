@@ -23,10 +23,22 @@ Collection of some avatar/talking-head datasets
 A Benchmark Dataset and Baseline
 - MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
 - Bilibili and douyin video URLs: [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
+
+## some ted and youtube videos
+- https://github.com/rojaranijyothi/TED-Talks/blob/main/Data/ted_main.csv
+- https://github.com/amitch/ytube-tedx/tree/master
+- https://github.com/mauropelucchi/tedx_dataset
+- https://github.com/openzim/ted
+- https://github.com/xingbow/TED_dataset
+- https://github.com/snap-research/articulated-animation/blob/main/data/ted-metadata.csv
+
+
 ## Reference:
 - https://github.com/harlanhong/awesome-talking-head-generation, 
 - https://github.com/YunjinPark/awesome_talking_face_generation, 
 - https://github.com/JosephPai/Awesome-Talking-Face
+- https://github.com/yt-dlp/yt-dlp/issues/118 // for video download
+- https://github.com/AliaksandrSiarohin/video-preprocessing/tree/master
 
 ## Star History
 
