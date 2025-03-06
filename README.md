@@ -23,6 +23,7 @@ Collection of some avatar/talking-head datasets
 A Benchmark Dataset and Baseline
 - MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
 - Bilibili and douyin video URLs: [[`Download link`](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)]
+- hallo3 dataset: [[`Download link`](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data)]
 
 ## some ted and youtube videos
 - https://github.com/rojaranijyothi/TED-Talks/blob/main/Data/ted_main.csv
