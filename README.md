@@ -1,4 +1,4 @@
-# awesome-human-generation-corpus
+# awesome-human-video-generation-corpus
 
 Collection of some avatar/talking-head datasets, human motion videos, useful for human generation research
 
