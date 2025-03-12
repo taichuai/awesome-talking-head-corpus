@@ -7,7 +7,7 @@ Collection of some avatar/talking-head datasets
 - VoxCeleb2 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)].
 - Faceforensics++ [[`Download link`](https://github.com/ondyari/FaceForensics)].
 - CelebV [[`Download link`](https://drive.google.com/file/d/1jQ6d76T5GQuvQH4dq8_Wq1T0cxvN0_xp/view)].
-- TalkingHead-1KH [[`Download link`](https://github.com/deepimagination/TalkingHead-1KH)].
+- TalkingHead-1KH [[`Download link`](https://github.com/tcwang0509/TalkingHead-1KH)].
 - LRW (Lip Reading in the Wild) [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)].
 - MEAD [[`Download link`](https://github.com/uniBruce/Mead)].
 - CelebV-HQ [[`Download link`](https://github.com/CelebV-HQ/CelebV-HQ)].
