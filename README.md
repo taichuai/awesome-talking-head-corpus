@@ -1,5 +1,5 @@
 # awesome-avatar/talking-head-corpus
-Collection of some avatar/talking-head datasets
+Collection of some avatar/talking-head datasets, human motion videos, useful for human generation research
 
 ## Datasets
 
